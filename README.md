@@ -2,10 +2,9 @@
 <p>My name is Mariia and I am QA Engineer <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" > </p>
 <h2>A Few Quick Facts</h2>
 <ul>
-<li> ✅ Finished <a href="https://stepik.org/course/171826/info">functional software testing course</a> </li>
-<li> ✅ Finished <a href="https://ru.hexlet.io/programs/frontend">frontend developer course</a> </li>
-<li> 📙  Have a university degree in Automation</li>
-<li> 🌱 My study cases are available on <a href="https://github.com/mariesukhova">Github</a></li> </li>
+<li> Finished <a href="https://stepik.org/course/171826/info">functional software testing course</a> </li>
+<li> Finished <a href="https://ru.hexlet.io/programs/frontend">frontend developer course</a> </li>
+<li> Have a university degree in Automation</li>
 </ul>
 
 <h2>My projects</h2>
