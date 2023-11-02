@@ -6,9 +6,19 @@
 <li> ✅ Finished <a href="https://ru.hexlet.io/programs/frontend">frontend developer course</a> </li>
 <li> 📙  Have a university degree in Automation</li>
 <li> 🌱 My study cases are available on <a href="https://github.com/mariesukhova">Github</a></li> </li>
-<li> 🧿 Random fact about me: I lived in Istanbul and can speak Turkish</li>
 </ul>
-<h2>Some Tools I Use</h2>
+
+<h2>My projects</h2>
+<p> 
+<ul>
+<li>  <a href="https://github.com/mariesukhova/frontend-project-44">Brain Games. Set of 5 console games designed to challenge your mind</a>  </li>
+<li>  <a href="https://github.com/mariesukhova/frontend-project-11">Rss Reader. Service for aggregating RSS feeds</a>   </li>
+<li> <a href="https://github.com/mariesukhova/frontend-project-46">Utility that determines the difference between two data structures</a>   </li>
+<li>  <a href="https://github.com/mariesukhova/frontend-project-12">Real-time chat. Simplistic alternative to Slack chat </a>  </li>
+</ul>
+</p>
+
+<h3 align="center">Some Tools I Use</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
@@ -35,15 +45,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" title="html" alt="gtml" width="40" height="40">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" title="css" alt="css" width="40" height="40">
 </div>
-<h2>My projects</h2>
-<p> 
- <ul>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-44">Brain Games. Set of 5 console games designed to challenge your mind</a>  </li>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-11">Rss Reader. Service for aggregating RSS feeds</a>   </li>
-<li> <a href="https://github.com/mariesukhova/frontend-project-46">Utility that determines the difference between two data structures</a>   </li>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-12">Real-time chat. Simplistic alternative to Slack chat </a>  </li>
-</ul>
-</p>
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in/mariesukhova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
