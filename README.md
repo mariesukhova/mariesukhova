@@ -7,13 +7,27 @@
 <li> Have a university degree in Automation</li>
 </ul>
 
-<h2>My projects</h2>
+<h2>My projects on JS and TS</h2>
 <p> 
 <ul>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-44">Brain Games. Set of 5 console games designed to challenge your mind</a>  </li>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-11">Rss Reader. Service for aggregating RSS feeds</a>   </li>
-<li> <a href="https://github.com/mariesukhova/frontend-project-46">Utility that determines the difference between two data structures</a>   </li>
-<li>  <a href="https://github.com/mariesukhova/frontend-project-12">Real-time chat. Simplistic alternative to Slack chat </a>  </li>
+<li> <a href="https://github.com/mariesukhova/frontend-project-44">Brain Games. Set of 5 console games designed to challenge your mind</a> </li>
+<li> <a href="https://github.com/mariesukhova/frontend-project-11">Rss Reader. Service for aggregating RSS feeds</a> </li>
+<li> <a href="https://github.com/mariesukhova/frontend-project-12">Real-time chat. Simplistic alternative to Slack chat </a> </li>
+<li> <a href="https://github.com/mariesukhova/test-severstal">Implementation of Single Page Application (SPA) </a> </li>
+</ul>
+</p>
+
+<h2>My projects with Test-Driven Development (JS + Jest) </h2>
+<p> 
+<ul>
+<li> <a href="https://github.com/mariesukhova/frontend-project-46">Utility that determines the difference between two data structures</a> </li>
+</ul>
+</p>
+
+<h2>Test Artifacts </h2>
+<p> 
+<ul>
+<li> <a href="https://github.com/mariesukhova/webshop_testing">Webshop testing documentation</a> </li>
 </ul>
 </p>
 
