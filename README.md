@@ -1,4 +1,4 @@
-<h2>Hey and welcome</h2>
+# Hey and welcome 👨‍💻
 <p>My name is Mariia and I am QA Engineer <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" > </p>
 <h2>A Few Quick Facts</h2>
 <ul>
@@ -7,7 +7,7 @@
 <li> Have a university degree in Automation</li>
 </ul>
 
-<h2>My projects on JS and TS</h2>
+## My projects on JS and TS
 <p> 
 <ul>
 <li> <a href="https://github.com/mariesukhova/frontend-project-44">Brain Games. Set of 5 console games designed to challenge your mind</a> </li>
@@ -17,14 +17,14 @@
 </ul>
 </p>
 
-<h2>My projects with Test-Driven Development (JS + Jest) </h2>
+## My projects with Test-Driven Development (JS + Jest)
 <p> 
 <ul>
 <li> <a href="https://github.com/mariesukhova/frontend-project-46">Utility that determines the difference between two data structures</a> </li>
 </ul>
 </p>
 
-<h2>Test Artifacts </h2>
+## Test Artifacts
 <p> 
 <ul>
 <li> <a href="https://github.com/mariesukhova/webshop_testing">Webshop testing documentation</a> </li>
