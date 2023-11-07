@@ -1,5 +1,5 @@
 # Hey and welcome 👨‍💻
-<p>My name is Mariia </p>
+<p>My name is Mariia <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" > </p></p>
 <h2>A Few Quick Facts</h2>
 <ul>
 <li> Finished <a href="https://stepik.org/course/171826/info">functional software testing course</a> </li>
