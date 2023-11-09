@@ -1,5 +1,5 @@
 # Hey and welcome 👨‍💻
-My name is Mariia <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">
+My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">
 
 ## A Few Quick Facts
 - Finished [functional software testing course](https://stepik.org/course/171826/info)
