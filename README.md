@@ -18,7 +18,7 @@ My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/sour
 ## Test Artifacts
 - [Webshop testing documentation](https://github.com/mariesukhova/webshop_testing)
 
-## Some Tools I Use
+<h3 align="center">Some Tools I Use</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40" />
@@ -27,15 +27,9 @@ My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/sour
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" />
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40" />
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40" />
-  <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgreSQL" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40" />
 </p>
-
-<h3 align="center">Some Tools I Use</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="javascript" alt="javascript" width="40" height="40">
