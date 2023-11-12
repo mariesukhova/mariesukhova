@@ -17,6 +17,7 @@ My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/sour
 
 ## Test Artifacts
 - [Webshop testing documentation](https://github.com/mariesukhova/webshop_testing)
+- [Gorest API Testing](https://github.com/mariesukhova/gorest_api)
 
 <h3 align="center">Some Tools I Use</h3>
 <p align="center">
