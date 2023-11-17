@@ -5,7 +5,7 @@ My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/sour
 - Have a university degree in Automation
 - Finished [functional software testing course](https://stepik.org/course/171826/info)
 - Finished [frontend developer course](https://ru.hexlet.io/programs/frontend)
-- My PIF (Potential in Focus) [test result](https://drive.google.com/drive/folders/1Lc_C-ZB9siqkrXnz_ybs49yDCZBp2kAk?usp=sharing)
+- I took the PIF (Potential in Focus) test and here is my [result](https://drive.google.com/drive/folders/1Lc_C-ZB9siqkrXnz_ybs49yDCZBp2kAk?usp=sharing)
 
 
 ## My projects on JS and TS
