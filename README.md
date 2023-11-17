@@ -2,9 +2,11 @@
 My name is Mariia and I am QA Engineer<img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">
 
 ## A Few Quick Facts
+- Have a university degree in Automation
 - Finished [functional software testing course](https://stepik.org/course/171826/info)
 - Finished [frontend developer course](https://ru.hexlet.io/programs/frontend)
-- Have a university degree in Automation
+- My PIF (Potential in Focus) [test result] (https://drive.google.com/drive/folders/1Lc_C-ZB9siqkrXnz_ybs49yDCZBp2kAk?usp=sharing)
+
 
 ## My projects on JS and TS
 - [Brain Games. Set of 5 console games designed to challenge your mind](https://github.com/mariesukhova/frontend-project-44)
